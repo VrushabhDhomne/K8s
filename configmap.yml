@@ -1,0 +1,7 @@
+  apiVersion: v1
+  kind: ConfigMap
+  metadata:
+    name: vrushabh-config
+  data: 
+    App_Colour: blue
+    APP_MODE: prod
